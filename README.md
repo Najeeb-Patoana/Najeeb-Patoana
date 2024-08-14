@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on NodeJs [Blood Buddy](https://blood-buddy-zri3.onrender.com)
 
-- 🌱 I’m currently learning **React , Spring Boot**
+- 🌱 I’m currently learning **xyz , xyz **
 
 - 💬 Ask me about **C++ , Backend , Java**
 
