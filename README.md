@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Najeeb Ullah Khan</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on NodeJs [Blood Buddy](https://blood-buddy-zri3.onrender.com)
+- 🔭 I’m currently working on NodeJs [Blood Buddy](https://feasible-careful-redfish.ngrok-free.app/)
 
 - 🌱 I’m currently learning **xyz , xyz **
 
