@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Najeeb Ullah Khan</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
-- 🔭 I’m currently working on NodeJs [Blood Buddy](https://patoana.vercel.app/)
+- 🔭 I’m currently working on NodeJs [Blood Buddy](https)
 
 - 🌱 I’m currently learning **xyz , xyz **
 
