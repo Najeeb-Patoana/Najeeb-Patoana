@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on NodeJs [Blood Buddy](https)
 
-- 🌱 I’m currently learning **xyz , xyz **
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C++ , Backend , Java**
 
