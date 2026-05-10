@@ -1,8 +1,20 @@
 <h1 align="center">Hi 👋, I'm Najeeb Ullah Khan</h1>
-<h3 align="center">Software Engineer | Full-Stack (MERN) Developer | DevOps Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack (MERN) Developer | DevOps </h3>
 
 <p align="center">
-  I am a final-year Software Engineering student based in Pakistan, specializing in building high-performance systems that bridge the gap between hardware, scalable backends, and modern frontend interfaces. I focus on delivering clean, resilient solutions.
+  <a href="https://najeebullahkhan.qzz.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-My_Portfolio-blue?style=for-the-badge&logo=cloudflare" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/najeeb-ullah-khan-7bab7625a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:najeebpatoana007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  I am a final-year Software Engineering student based in Pakistan, specializing in building high-performance systems that bridge the gap between hardware, scalable backends, and modern frontend interfaces. With a background in teaching Computer Science, I focus on delivering clean, resilient, and well-documented solutions.
 </p>
 
 ---
@@ -13,7 +25,17 @@
 - 🌱 **Currently expanding my skills in:** Advanced DevOps (Docker, Jenkins, CI/CD pipelines) and Site Reliability Engineering (SRE).
 - 💡 **I love building:** Cross-platform mobile apps (Flutter) and robust database-driven platforms.
 - 💬 **Ask me about:** React, Node.js, C++, Flutter, and optimizing system architectures.
-- 📫 **How to reach me:** [najeebpatoana007@gmail.com](mailto:najeebpatoana007@gmail.com)
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ☀️ **Solar Planner** | Full-stack AI platform using SAM (Segment Anything Model) for rooftop detection and OCR for bill analysis. | `MERN`, `Python`, `Docker` |
+| ⛽ **Fuelly App** | On-demand fuel delivery mobile app with real-time GPS tracking and offline-first database sync. | `Flutter`, `Firebase` |
+| 🩸 **Blood Buddy** | Real-time blood donation platform with location-based donor matching across cities. | `MongoDB`, `React`, `Node.js` |
+| 🚗 **Parking Manager** | Web app for real-time parking slot management and automated entry/exit logging. | `React`, `Node.js` |
 
 ---
 
@@ -31,15 +53,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Najeeb-Patoana&show_icons=true&theme=radical" alt="Najeeb's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najeeb-Patoana&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/najeeb-ullah-khan-7bab7625a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="30" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Najeeb-Patoana&theme=radical" alt="Najeeb's GitHub Streak" />
 </p>
