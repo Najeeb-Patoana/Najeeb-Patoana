@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najeeb Ullah Khan</h1>
-<h3 align="center">Software Engineer | Full-Stack (MERN) Developer | DevOps </h3>
+<h3 align="center">Software Engineer | Full-Stack (MERN) Developer | DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://najeebullahkhan.qzz.io" target="_blank">
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/najeeb-ullah-khan-7bab7625a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:najeebpatoana007@gmail.com">
+  <a href="mailto:najeebpatoana007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
@@ -25,6 +25,7 @@
 - 🌱 **Currently expanding my skills in:** Advanced DevOps (Docker, Jenkins, CI/CD pipelines) and Site Reliability Engineering (SRE).
 - 💡 **I love building:** Cross-platform mobile apps (Flutter) and robust database-driven platforms.
 - 💬 **Ask me about:** React, Node.js, C++, Flutter, and optimizing system architectures.
+- 📫 **How to reach me:** <a href="mailto:najeebpatoana007@gmail.com" target="_blank">najeebpatoana007@gmail.com</a>
 
 ---
 
@@ -32,10 +33,10 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| ☀️ **Solar Planner** | Full-stack AI platform using SAM (Segment Anything Model) for rooftop detection and OCR for bill analysis. | `MERN`, `Python`, `Docker` |
-| ⛽ **Fuelly App** | On-demand fuel delivery mobile app with real-time GPS tracking and offline-first database sync. | `Flutter`, `Firebase` |
-| 🩸 **Blood Buddy** | Real-time blood donation platform with location-based donor matching across cities. | `MongoDB`, `React`, `Node.js` |
-| 🚗 **Parking Manager** | Web app for real-time parking slot management and automated entry/exit logging. | `React`, `Node.js` |
+| <a href="https://github.com/Najeeb-Patoana/Solar-Planner" target="_blank">☀️ **Solar Planner**</a> | Full-stack AI platform using SAM for rooftop detection and OCR for bill analysis. | `MERN`, `Python`, `Docker` |
+| <a href="https://github.com/Najeeb-Patoana/Fuelly" target="_blank">⛽ **Fuelly App**</a> | On-demand fuel delivery mobile app with real-time GPS tracking and offline-first database sync. | `Flutter`, `Firebase` |
+| <a href="https://github.com/Najeeb-Patoana/Blood-Buddy" target="_blank">🩸 **Blood Buddy**</a> | Real-time blood donation platform with location-based donor matching across cities. | `MongoDB`, `React`, `Node.js` |
+| <a href="https://github.com/Najeeb-Patoana/Car-Parking-System" target="_blank">🚗 **Parking Manager**</a> | Web app for real-time parking slot management and automated entry/exit logging. | `React`, `Node.js` |
 
 ---
 
@@ -53,13 +54,19 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Developer Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Najeeb-Patoana&show_icons=true&theme=radical" alt="Najeeb's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najeeb-Patoana&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/Najeeb-Patoana" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Najeeb-Patoana&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Najeeb-Patoana" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najeeb-Patoana&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Najeeb-Patoana&theme=radical" alt="Najeeb's GitHub Streak" />
+  <a href="https://github.com/Najeeb-Patoana" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Najeeb-Patoana&theme=radical" alt="GitHub Streak" />
+  </a>
 </p>
