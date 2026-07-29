@@ -53,19 +53,9 @@
 
 ### 📊 Developer Activity
 
-<p align="center">
-  <a href="https://github.com/Najeeb-Patoana" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Najeeb-Patoana&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Najeeb-Patoana" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najeeb-Patoana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Najeeb-Patoana" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=Najeeb-Patoana&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+<p align="left">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="Most Productive Time" />
 </p>
 
 ### 📊 Top Languages
