@@ -1,1 +1,31 @@
+name: GitHub-Profile-Summary-Cards
 
+on:
+  schedule:
+    # runs once a day at 00:00 UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Najeeb-Patoana
+          BRANCH_NAME: "main"
+          # only generate the theme you actually use, to keep the run fast
+          THEME: github_dark
+          # this is the part that was missing: explicitly list every card you want
+          PLUGINS: |
+            profile-details
+            repos-per-language
+            most-commit-language
+            stats
+            productive-time
