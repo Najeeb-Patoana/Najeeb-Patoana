@@ -67,3 +67,13 @@
     <img src="https://streak-stats.demolab.com/?user=Najeeb-Patoana&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
+### 📊 Top Languages
+
+<p align="left">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
+</p>
+<p align="left">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+</p>
