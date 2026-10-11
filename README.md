@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najeeb Ullah Khan</h1>
-<h3 align="center">Software Engineer | Full-Stack (MERN) Developer | DevOps Enthusiast</h3>
+<h3 align="center">AI / Full-Stack Software Engineer | LLMs, RAG & Web Automation</h3>
 
 <p align="center">
   <a href="https://najeebullahkhan.qzz.io" target="_blank">
@@ -14,17 +14,18 @@
 </p>
 
 <p align="center">
-  I am a final-year Software Engineering student based in Pakistan, specializing in building high-performance systems that bridge the gap between hardware, scalable backends, and modern frontend interfaces. With a background in teaching Computer Science, I focus on delivering clean, resilient, and well-documented solutions.
+  I am a Software Engineering graduate building AI-powered platforms, RAG systems, browser automation, and production-grade full-stack applications. With a background in teaching Computer Science, I focus on delivering clean, resilient, and well-documented solutions.
 </p>
 
 ---
 
 ### 🚀 What I'm Up To
 
-- 🔭 **Currently working on:** An AI-Powered Rooftop Solar Design & Cost Estimation platform using the MERN stack, Python, and the Segment Anything Model (SAM).
-- 🌱 **Currently expanding my skills in:** Advanced DevOps (Docker, Jenkins, CI/CD pipelines) and Site Reliability Engineering (SRE).
-- 💡 **I love building:** Cross-platform mobile apps (Flutter), robust database-driven platforms, and embedded systems.
-- 💬 **Ask me about:** React, Node.js, C++, Flutter, and optimizing system architectures.
+- 💼 **Currently:** Software Engineer Intern at **Recurso Labs**, building full-stack web applications with Ruby on Rails.
+- 🔭 **Currently working on:** AI-powered products with RAG pipelines, LLM APIs, and vector databases (Qdrant), including meeting intelligence, brand-content generation, and legal research assistants.
+- 🌱 **Currently expanding my skills in:** LLM orchestration with LangChain and advanced DevOps (Docker, Jenkins, CI/CD pipelines).
+- 💡 **I love building:** AI/RAG applications, web-automation pipelines, robust database-driven platforms, and embedded systems.
+- 💬 **Ask me about:** RAG, LangChain, React, Node.js, FastAPI, Playwright/Selenium, and optimizing system architectures.
 - 📫 **How to reach me:** <a href="mailto:najeebpatoana007@gmail.com" target="_blank">najeebpatoana007@gmail.com</a>
 
 ---
@@ -33,19 +34,27 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| <a href="https://github.com/Najeeb-Patoana/Solar-Planner" target="_blank">☀️ **Solar Planner**</a> | Full-stack AI platform using SAM for rooftop detection and OCR for bill analysis. | `MERN`, `Python`, `Docker` |
-| <a href="https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot" target="_blank">⚖️ **VectorLaw**</a> | Relational database-backed legal query assistant chatbot using vector stores and GovInfo API. | `Qdrant`, `PostgreSQL`, `Python` |
-| <a href="https://github.com/Najeeb-Patoana/SolarPlanner-DualEnergyMonitor" target="_blank">📡 **Hardware Telemetry System**</a> | Dual-channel hardware telemetry logging system utilizing PZEM-004T v4 power monitoring modules. | `ESP32-S3`, `C++`, `IoT` |
-| <a href="https://github.com/Najeeb-Patoana/Fuelly" target="_blank">⛽ **Fuelly App**</a> | On-demand fuel delivery mobile app with real-time GPS tracking and offline-first database sync. | `Flutter`, `Firebase` |
-| <a href="https://github.com/Najeeb-Patoana/Code-Sniffer" target="_blank">🔍 **Code Sniffer**</a> | Static code analysis platform to detect structural anti-patterns and code smells via Abstract Syntax Trees. | `JavaScript`, `AST` |
+| <a href="https://github.com/Najeeb-Patoana/CollabFlow" target="_blank">🧠 **Collab Flow**</a> · <a href="https://collab-flow-indol.vercel.app" target="_blank">Live</a> | AI-powered project management and meeting intelligence platform: WhisperX transcription with speaker diarization, automated task extraction with human approval, and a bot that joins Meet, Teams, and Zoom. | `React`, `Node.js`, `FastAPI`, `PostgreSQL`, `Socket.IO` |
+| <!-- TODO: add repo link --> ✨ **BrandSync AI** | Turns a company's website and social footprint into a brand persona and a multi-platform content calendar using a 9-facet RAG engine. | `FastAPI`, `Qdrant`, `Playwright`, `Ollama`, `LangSmith` |
+| <a href="https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot" target="_blank">⚖️ **Vector Law**</a> | RAG legal research assistant with citation-grounded answers, cross-encoder reranking, and a Gemini → OpenAI → Groq fallback chain. | `Node.js`, `React`, `Supabase`, `Qdrant` |
+| <a href="https://github.com/Najeeb-Patoana/Solar-Planner" target="_blank">☀️ **Solar Planner**</a> | Final-year project: full-stack AI platform using SAM for rooftop detection, OCR for bill analysis, and Selenium to automate bill retrieval. | `MERN`, `Python`, `SAM`, `Selenium`, `Docker` |
+| <!-- TODO: add repo link --> <a href="https://smart-pdf-chat-bot.vercel.app" target="_blank">📄 **Smart PDF ChatBot**</a> | RAG-based document Q&A with document-scoped vector retrieval and embedding reuse across follow-up queries. | `Node.js`, `React`, `Qdrant`, `Gemini` |
+| <a href="https://github.com/Najeeb-Patoana/SolarPlanner-DualEnergyMonitor" target="_blank">📡 **Hardware Telemetry System**</a> | Dual-channel AC energy monitoring node built on ESP32-S3 with two PZEM-004T sensors. | `ESP32-S3`, `C++`, `IoT` |
+| <a href="https://github.com/Najeeb-Patoana/Code-Sniffer" target="_blank">🔍 **Code Sniffer**</a> | Static analysis tool that detects 7 JavaScript code smells via Abstract Syntax Trees. | `JavaScript`, `AST` |
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,js,tailwind,bootstrap,css,nodejs,express,py,cpp,java,mongodb,mysql,docker,jenkins,git,linux,postman&perline=9" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,py,fastapi,ruby,rails,postgres,mongodb,supabase,mysql,docker,jenkins,git,linux,postman,cpp,flutter&perline=10" alt="Tech Stack Icons" />
   </a>
 </p>
 
