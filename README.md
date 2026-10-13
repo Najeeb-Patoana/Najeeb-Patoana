@@ -21,7 +21,6 @@
 
 ### 🚀 What I'm Up To
 
-- 💼 **Currently:** Software Engineer Intern at **Recurso Labs**, building full-stack web applications with Ruby on Rails.
 - 🔭 **Currently working on:** AI-powered products with RAG pipelines, LLM APIs, and vector databases (Qdrant), including meeting intelligence, brand-content generation, and legal research assistants.
 - 🌱 **Currently expanding my skills in:** LLM orchestration with LangChain and advanced DevOps (Docker, Jenkins, CI/CD pipelines).
 - 💡 **I love building:** AI/RAG applications, web-automation pipelines, robust database-driven platforms, and embedded systems.
@@ -34,8 +33,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| <a href="https://github.com/Najeeb-Patoana/CollabFlow" target="_blank">🧠 **Collab Flow**</a> · <a href="https://collab-flow-indol.vercel.app" target="_blank">Live</a> | AI-powered project management and meeting intelligence platform: WhisperX transcription with speaker diarization, automated task extraction with human approval, and a bot that joins Meet, Teams, and Zoom. | `React`, `Node.js`, `FastAPI`, `PostgreSQL`, `Socket.IO` |
-| <!-- TODO: add repo link --> ✨ **BrandSync AI** | Turns a company's website and social footprint into a brand persona and a multi-platform content calendar using a 9-facet RAG engine. | `FastAPI`, `Qdrant`, `Playwright`, `Ollama`, `LangSmith` |
+
 | <a href="https://github.com/Najeeb-Patoana/Vector-Law-Legal-Chatbot" target="_blank">⚖️ **Vector Law**</a> | RAG legal research assistant with citation-grounded answers, cross-encoder reranking, and a Gemini → OpenAI → Groq fallback chain. | `Node.js`, `React`, `Supabase`, `Qdrant` |
 | <a href="https://github.com/Najeeb-Patoana/Solar-Planner" target="_blank">☀️ **Solar Planner**</a> | Final-year project: full-stack AI platform using SAM for rooftop detection, OCR for bill analysis, and Selenium to automate bill retrieval. | `MERN`, `Python`, `SAM`, `Selenium`, `Docker` |
 | <!-- TODO: add repo link --> <a href="https://smart-pdf-chat-bot.vercel.app" target="_blank">📄 **Smart PDF ChatBot**</a> | RAG-based document Q&A with document-scoped vector retrieval and embedding reuse across follow-up queries. | `Node.js`, `React`, `Qdrant`, `Gemini` |
