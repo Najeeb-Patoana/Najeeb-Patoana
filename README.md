@@ -22,7 +22,7 @@
 
 ### 🚀 What I'm Up To
 
-- 🔭 **Currently working on:** AI-powered products with RAG pipelines, LLM APIs, and vector databases (Qdrant), including meeting intelligence, brand-content generation, and legal research assistants.
+- 🔭 **Currently working on:** AI-powered products with RAG pipelines, LLM APIs, and vector databases (Qdrant), including meeting intelligence, and legal research assistants.
 - 🌱 **Currently expanding my skills in:** LLM orchestration with LangChain and advanced DevOps (Docker, Jenkins, CI/CD pipelines).
 - 💡 **I love building:** AI/RAG applications, web-automation pipelines, robust database-driven platforms, and embedded systems.
 - 💬 **Ask me about:** RAG, LangChain, React, Node.js, FastAPI, Playwright/Selenium, and optimizing system architectures.
