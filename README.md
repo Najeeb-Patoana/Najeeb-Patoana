@@ -1,4 +1,4 @@
-# Hi 👋, I'm Najeeb Ullah Khan
+<h1 align="center">Hi 👋, I'm Najeeb Ullah Khan</h1>
 
 <h3 align="center">AI / Full-Stack Software Engineer | LLMs, RAG & Web Automation</h3>
 
